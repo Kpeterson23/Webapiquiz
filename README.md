@@ -1,4 +1,4 @@
-# Project 11 Note Taker
+# Interactive Javascript Quiz
 
 # Description
 
