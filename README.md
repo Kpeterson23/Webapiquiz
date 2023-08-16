@@ -15,14 +15,20 @@ This website/code allows the user to go through 5 basic javascript coding questi
 - [Questions](#questions)
 
 ## Installation
-
-Cloning the repository is the only required step for installation
+<img width="1920" alt="Screenshot 2023-08-16 at 10 28 51 (2)" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/96b7408f-dba8-482b-8fbb-36ddb33a4e70">
+<img width="1470" alt="Screenshot 2023-08-16 at 10 28 51" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/6a20dc14-791e-42b9-9733-6b7783f7379d">
+<img width="1920" alt="Screenshot 2023-08-16 at 10 29 13 (2)" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/a5f1ac13-41b1-4530-9076-b57937432426">
+![Uploading Screenshot 2023-08-16 at 10.29.13.png…]()
+![Uploading Screenshot 2023-08-16 at 10.30.18 (2).png…]()
+<img width="1470" alt="Screenshot 2023-08-16 at 10 30 18" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/a8682b33-b192-4ad5-bc40-e03b96ea4d02">
 
 ## Usage
 
 Run on live server.
 
 ## Screenshots of Deployed Application
+Deployed application: 
+
 
 ## License
 
