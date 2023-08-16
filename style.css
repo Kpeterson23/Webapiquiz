@@ -1,0 +1,139 @@
+/* Reset some default styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* Styling for the navigation bar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+}
+
+/* Styling for the main content sections */
+section {
+  display: none;
+  padding: 20px;
+}
+
+/* Styling for the landing page */
+.landingpage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Styling for the questions */
+.q1page,
+.q2page,
+.q3page,
+.q4page,
+.q5page {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Styling for the results page */
+.resultspage {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Styling for the high scores page */
+.highscorepage {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Styling for buttons */
+.button,
+.submitbutton {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover,
+.submitbutton:hover {
+  background-color: #0056b3;
+}
+
+/* Styling for the time display */
+.time {
+  font-size: 18px;
+}
+
+/* Styling for the quiz title */
+h1 span {
+  background-color: #007bff;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+/* Styling for questions and options */
+h2,
+ul {
+  margin-top: 20px;
+}
+
+button[type="button"] {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+button[type="button"]:hover {
+  background-color: #ddd;
+}
+
+/* Styling for the high scores list */
+ul.scores {
+  list-style: none;
+  text-align: left;
+  margin-top: 20px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+/* Styling for the show high scores button */
+.showhighscores {
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.showhighscores:hover {
+  color: #ddd;
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    text-align: center;
+  }
+}
