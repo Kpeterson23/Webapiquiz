@@ -15,12 +15,6 @@ This website/code allows the user to go through 5 basic javascript coding questi
 - [Questions](#questions)
 
 ## Installation
-<img width="1470" alt="Screenshot 2023-08-16 at 10 28 51" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/6a20dc14-791e-42b9-9733-6b7783f7379d">
-<img width="1920" alt="Screenshot 2023-08-16 at 10 32 07 (2)" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/23cc678e-b02e-493b-b73d-d30073131c20">
-![Uploading Screenshot 2023-08-16 at 10.32.07.png…]()
-
-
-<img width="1470" alt="Screenshot 2023-08-16 at 10 30 18" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/a8682b33-b192-4ad5-bc40-e03b96ea4d02">
 
 ## Usage
 
@@ -29,6 +23,12 @@ Run on live server.
 ## Screenshots of Deployed Application
 Deployed application: 
 
+<img width="1470" alt="Screenshot 2023-08-16 at 10 28 51" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/6a20dc14-791e-42b9-9733-6b7783f7379d">
+<img width="1920" alt="Screenshot 2023-08-16 at 10 36 34 (2)" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/33c96429-37c8-4dda-a0a7-ac6993ada40a">
+![Uploading Screenshot 2023-08-16 at 10.36.34.png…]()
+
+
+<img width="1470" alt="Screenshot 2023-08-16 at 10 30 18" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/a8682b33-b192-4ad5-bc40-e03b96ea4d02">
 
 ## License
 
