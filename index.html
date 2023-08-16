@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Quiz Application</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <nav>
+        <button class="showhighscores"><span>-- View Scores --</span></button>
+        <span2 class="time"></span2>
+    </nav>
+
+    <section class="landingpage">
+        <header>
+            <h1><span>-- Coding Quiz Challenge --</span></h1>
+            <p>Try to answer the coding questions within the time limit! Incorrect answers will penalize you by reducing the time by 10 seconds.</h2>  
+        </header>
+        <div class="button-container">
+            <button id="start" class="button">Start!</button>  
+        </div>
+    </section>
+
+    <section class="q1page">
+        <header>
+            <h1><span>-- Question 1 --</span></h1>
+            <p>Javascript is what kind of language?</h2>
+        </header>
+        <ul>
+            <button class="wrongans" type="button">.Procedurel</button>
+            <button class="wrongans" type="button">Object-Based</button>
+            <button class="correctans" type="button">Object-Oriented</button>
+            <button class="wrongans" type="button">None of the above</button>
+        </ul>
+        
+    </section>
+
+    <section class="q2page">
+        <header>
+            <h1><span>-- Question 2 --</span></h1>
+            <p>Which of the following keywords is used to define a variable in Javascript?</h2>
+        </header>
+        <ul>
+            <button class="wrongans2" type="button">var</button>
+            <button class="wrongans2" type="button">let</button>
+            <button class="wrongans2" type="button">None </button>
+            <button class="correctans2" type="button">Both 1. and 2.</button>
+        </ul>
+        
+    </section>
+
+    <section class="q3page">
+        <header>
+            <h1><span>-- Question 3 --</span></h1>
+            <p>How can a datatype be declared to be a constant type?</h2>
+        </header>
+        <ul>
+            <button class="wrongans3" type="button">let</button>
+            <button class="correctans3" type="button">const</button>
+            <button class="wrongans3" type="button">constant</button>
+            <button class="wrongans3" type="button">var</button>
+        </ul>
+        
+    </section>
+
+    <section class="q4page">
+        <header>
+            <h1><span>-- Question 4 --</span></h1>
+            <p>Which of the following methods can be used todisplay datain some form using Javascript?</h2>
+        </header>
+        <ul>
+            <button class="wrongans4" type="button">document.write()</button>
+            <button class="wrongans4" type="button">console.log()</button>
+            <button class="correctans4" type="button">all</button>
+            <button class="wrongans4" type="button">window.alert()</button>
+        </ul>
+        
+    </section>
+
+    <section class="q5page">
+        <header>
+            <h1><span>-- Question 5 --</span></h1>
+            <p>Upon encountering empty statements, what does the Javascript Interpreter do?</h2>
+        </header>
+        <ul>
+            <button class="wrongans5" type="button">Throws an error</button>
+            <button class="wrongans5" type="button">Gives a warning</button>
+            <button class="wrongans5" type="button">all</button>
+            <button class="correctans5" type="button">Ignores the statements</button>
+        </ul>
+        
+    </section>
+
+    <section class="resultspage">
+        <header>
+            <h1><span>-- Results --</span></h1>
+            <p>Your final score is <p2 class="score"></p2></p>
+            <p>Please enter your initials</p>
+            <input type ="text" id="initials">
+        </header>
+        <div class="subbutwrap">
+            <button class="submitbutton">Submit</button>
+        </div>
+    </section>
+
+    <section class="highscorepage">
+        <header>
+            <h1><span>--Scores--</span></h1>
+            <ul class="scores">
+                <li id="score1">EMPTY</li>
+                <li id="score2">EMPTY</li>
+                <li id="score3">EMPTY</li>
+                <li id="score4">EMPTY</li>
+                <li id="score5">EMPTY</li>
+            </ul>
+        </header>
+    </section>
+
+    <script src="./script.js"></script>
+</body>
+</html>
