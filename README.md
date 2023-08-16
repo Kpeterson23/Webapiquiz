@@ -16,8 +16,10 @@ This website/code allows the user to go through 5 basic javascript coding questi
 
 ## Installation
 <img width="1470" alt="Screenshot 2023-08-16 at 10 28 51" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/6a20dc14-791e-42b9-9733-6b7783f7379d">
-![Uploading Screenshot 2023-08-16 at 10.29.13.png…]()
-![Uploading Screenshot 2023-08-16 at 10.30.18 (2).png…]()
+<img width="1920" alt="Screenshot 2023-08-16 at 10 32 07 (2)" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/23cc678e-b02e-493b-b73d-d30073131c20">
+![Uploading Screenshot 2023-08-16 at 10.32.07.png…]()
+
+
 <img width="1470" alt="Screenshot 2023-08-16 at 10 30 18" src="https://github.com/Kpeterson23/Webapiquiz/assets/124640874/a8682b33-b192-4ad5-bc40-e03b96ea4d02">
 
 ## Usage
